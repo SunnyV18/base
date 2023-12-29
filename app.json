@@ -1,0 +1,88 @@
+{
+  "id": "55cf1e47-5480-438e-8275-32bfc1562c20",
+  "name": "ALProject2",
+  "publisher": "Default publisher",
+  "version": "1.0.0.3",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "db643212-b7fb-4dd4-b5a8-cb44ac714461",
+      "name": "India GST",
+      "publisher": "Microsoft",
+      "version": "22.5.59966.60493"
+    },
+    {
+      "id": "8fc50dfb-d338-4fd9-9499-5e44cc8cbf50",
+      "name": "Email - SMTP API",
+      "publisher": "Microsoft",
+      "version": "23.0.12034.12802"
+    },
+    {
+      "id": "68e13fa3-217a-4be0-9141-99e5bf0ca818",
+      "name": "Email - SMTP Connectorz",
+      "publisher": "Microsoft",
+      "version": "23.0.12034.12802"
+    },
+    
+    {
+      "id": "07729019-da51-4639-a987-3db38ccc62c7",
+      "name": "India Charge Group",
+      "publisher": "Microsoft",
+      "version": "22.5.59966.60187"
+
+    },
+    {
+      "id": "050f6146-bffd-40de-942c-d0dd510ec20f",
+      "name": "India Reports",
+      "publisher": "Microsoft",
+      "version": "23.0.12034.12802"
+
+    },
+    {
+      "id": "d3c551dd-5903-4194-b153-04ced9d29a2c",
+      "name": "India Tax Base",
+      "publisher": "Microsoft",
+      "version": "22.5.59966.60493"
+
+    },
+    {
+      "id": "eae5779e-7797-4c4c-977e-7516652b7a65",
+      "name": "India TDS",
+      "publisher": "Microsoft",
+      "version": "22.5.59966.60187"
+
+    },
+    {
+      "id": "c1eafb3f-e397-468e-bdb4-ecc5c317ca00",
+      "name": "Tax Engine",
+      "publisher": "Microsoft",
+      "version": "22.5.59966.60187"
+
+    }
+    
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "11.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
